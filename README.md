@@ -1,0 +1,2 @@
+# H743IIT6_SDMMC_FATFS
+Training SD CARD with SDMMC and FATFS
